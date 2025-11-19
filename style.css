@@ -244,3 +244,8 @@ body {
         margin-top: 72px;
     }
 }
+
+a:-webkit-any-link{
+    text-decoration: none;
+}
+
